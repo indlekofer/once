@@ -7,4 +7,4 @@ export default (fn, context) => {
     }
     return result;
   };
-}
+};
